@@ -1,5 +1,5 @@
 <h1 align="center">¡Buenas 👋! Soy Joaquin</h1>
-[![Screenshot-4.png](https://i.postimg.cc/vHQYTmMF/Screenshot-4.png)](https://postimg.cc/Z0MtD4CV)
+[![Banner-Git-Hub.png](https://i.postimg.cc/L4r1qL5Y/Banner-Git-Hub.png)](https://postimg.cc/pyJT49DR)
 
 <p align="left">
 Me dedico al desarrollo web enfocado en el stack de Front-End. Actualmente me encuentro en busca de mi primer experiencia laboral con muchas ganas de crecer profesionalmente y adquirir nuevos conocimientos. 
