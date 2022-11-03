@@ -1,5 +1,5 @@
-<h1 align="center">¡Buenas 👋!, Soy Joaquin</h1>
-<blockquote class="imgur-embed-pub" lang="en" data-id="yYvhDlI"><a href="https://imgur.com/yYvhDlI">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<h1 align="center">¡Buenas 👋! Soy Joaquin</h1>
+[![Screenshot-4.png](https://i.postimg.cc/vHQYTmMF/Screenshot-4.png)](https://postimg.cc/Z0MtD4CV)
 
 <p align="left">
 Me dedico al desarrollo web enfocado en el stack de Front-End. Actualmente me encuentro en busca de mi primer experiencia laboral con muchas ganas de crecer profesionalmente y adquirir nuevos conocimientos. 
@@ -10,6 +10,7 @@ Soy Junior, es decir, todavía me faltan cosas por aprender pero no es algo que 
 <h3 align="left">Contactame conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joaquin-gramigna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaquin-gramigna/" height="30" width="40" /></a>
+<p align="left">Email: joacogramigna@gmail.com</p>
 </p>
 
 <h3 align="left">Tecnologias y herramientas:</h3>
