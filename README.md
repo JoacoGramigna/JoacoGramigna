@@ -1,7 +1,8 @@
-<h1 align="center">¡Buenas 👋! Soy Joaquin</h1>
 <img src="./Banner GitHub.png"></img>
 
 <p align="left">
+¡Buenas 👋! Soy Joaquin.
+
 Me dedico al desarrollo web enfocado en el stack de Front-End. Actualmente me encuentro en busca de mi primer experiencia laboral con muchas ganas de crecer profesionalmente y adquirir nuevos conocimientos. 
 
 Soy Junior, es decir, todavía me faltan cosas por aprender pero no es algo que me impida a estar en constante capacitación y práctica, como lo hago en la actualidad. Además de capacitarme en la programación, estudio inglés en un instituto llamado "Cultural Inglesa de Neuquén" donde estoy cursando 5th juniors equivalente al Cambridge English Assessment, B1 Preliminary.
