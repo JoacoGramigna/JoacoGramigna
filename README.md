@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Joaquin</h1>
-<h3 align="center">Desarrollador Front-End de 🇦🇷 Argentina</h3>
+<h3 align="center">Desarrollador Front-End de <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/flag-argentina_1f1e6-1f1f7.png"></img> Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
